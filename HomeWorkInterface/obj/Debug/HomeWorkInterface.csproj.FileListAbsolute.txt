@@ -1,0 +1,7 @@
+C:\Users\azat\source\repos\HomeWorkInterface\HomeWorkInterface\bin\Debug\HomeWorkInterface.exe.config
+C:\Users\azat\source\repos\HomeWorkInterface\HomeWorkInterface\bin\Debug\HomeWorkInterface.exe
+C:\Users\azat\source\repos\HomeWorkInterface\HomeWorkInterface\bin\Debug\HomeWorkInterface.pdb
+C:\Users\azat\source\repos\HomeWorkInterface\HomeWorkInterface\obj\Debug\HomeWorkInterface.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\HomeWorkInterface\HomeWorkInterface\obj\Debug\HomeWorkInterface.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\HomeWorkInterface\HomeWorkInterface\obj\Debug\HomeWorkInterface.exe
+C:\Users\azat\source\repos\HomeWorkInterface\HomeWorkInterface\obj\Debug\HomeWorkInterface.pdb
